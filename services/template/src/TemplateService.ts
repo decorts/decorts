@@ -1,4 +1,4 @@
-import { Service } from "decorts";
+import { Service } from "decor.ts";
 
 export default class TemplateService extends Service {
 

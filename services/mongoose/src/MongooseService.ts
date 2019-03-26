@@ -1,4 +1,4 @@
-import { Service } from "decorts";
+import { Service } from "decor.ts";
 import mongoose from "mongoose";
 
 export default class MongooseService extends Service {

@@ -1,5 +1,5 @@
 {
-  "name": "decorts",
+  "name": "decor.ts",
   "version": "0.0.1-beta.0",
   "main": "dist/index.js",
   "bin": "bin/decor.js",
@@ -18,5 +18,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "064664d5508fa1656907424cd85e1574c1928d6d"
 }

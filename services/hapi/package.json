@@ -14,11 +14,12 @@
     "@types/hapi": "^18.0.1",
     "@types/node": "^11.11.6",
     "@types/object-path": "^0.11.0",
-    "decorts": "^0.0.1-beta.0",
+    "decor.ts": "^0.0.1-beta.0",
     "ts-node": "^8.0.3",
     "typescript": "^3.3.4000"
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "064664d5508fa1656907424cd85e1574c1928d6d"
 }

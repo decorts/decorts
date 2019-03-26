@@ -1,6 +1,6 @@
 import Hapi from 'hapi';
 import ObjectPath from 'object-path'
-import { Service } from "decorts";
+import { Service } from "decor.ts";
 
 export default class TemplateService extends Service {
     server: Hapi.Server

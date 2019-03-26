@@ -7,7 +7,9 @@
     "build": "tsc"
   },
   "dependencies": {
-    "chalk": "^2.4.2"
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.11",
+    "strip-ansi": "^5.2.0"
   },
   "devDependencies": {
     "@types/chalk": "^2.2.0",
@@ -17,5 +19,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "064664d5508fa1656907424cd85e1574c1928d6d"
 }
