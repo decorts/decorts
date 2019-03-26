@@ -1,6 +1,6 @@
 {
   "name": "decor.ts",
-  "version": "0.0.1-beta.0",
+  "version": "0.0.1-beta.1",
   "main": "dist/index.js",
   "bin": "bin/decor.js",
   "license": "MIT",
@@ -8,8 +8,8 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@decorts/cli": "^0.0.1-beta.0",
-    "@decorts/core": "^0.0.1-beta.0"
+    "@decorts/cli": "^0.0.1-beta.1",
+    "@decorts/core": "^0.0.1-beta.1"
   },
   "devDependencies": {
     "@types/node": "^11.11.6",
