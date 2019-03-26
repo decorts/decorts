@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dist folders
+dist
+
+# Only keep yarn.lock in the root
+package-lock.json
+*/**/yarn.lock

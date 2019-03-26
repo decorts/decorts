@@ -1,0 +1,22 @@
+{
+  "name": "decorts",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "bin": "bin/decor.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@decorts/cli": "^0.0.1",
+    "@decorts/core": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.6",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
