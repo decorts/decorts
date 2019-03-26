@@ -1,6 +1,6 @@
 {
   "name": "@decorts/core",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.0",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -10,7 +10,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@decorts/route-table": "^0.0.1"
+    "@decorts/route-table": "^0.0.1-beta.0"
   },
   "devDependencies": {
     "@types/node": "^11.11.6",

@@ -1,6 +1,6 @@
 {
   "name": "@decorts/mongoose",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.0",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/mongoose": "^5.3.23",
     "@types/node": "^11.11.6",
-    "decorts": "^0.0.1",
+    "decorts": "^0.0.1-beta.0",
     "ts-node": "^8.0.3",
     "typescript": "^3.3.4000"
   },
